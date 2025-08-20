@@ -3,7 +3,7 @@
 💻 **CS Engineering Student | MERN Stack Developer | AI Enthusiast | 🚀**  
 
 I’m learning things, exploring AI & Machine Learning.  
-Currently pursuing **B.Tech in Computer Science and Engineering (3rd year)**, while figuring out what and how of Tech World !!**.  
+Currently pursuing **B.Tech in Computer Science and Engineering (4th year)**, while figuring out what and how of Tech World !!**.  
 
 ---
 
@@ -48,6 +48,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering (3rd year)**, wh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zafaruddin-35236427b/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MdZafar-07)   
+
 
 
 
