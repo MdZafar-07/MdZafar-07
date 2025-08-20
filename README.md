@@ -1,15 +1,15 @@
 ﻿# Hi there, I'm Md. Zafaruddin 👋
 
-💻 **CS Engineering Student | MERN Stack Developer | AI Enthusiast | GATE 2026 Aspirant 🚀**  
+💻 **CS Engineering Student | MERN Stack Developer | AI Enthusiast | 🚀**  
 
-I’m passionate about building real-world applications, solving problems with technology, and exploring AI & Machine Learning.  
-Currently pursuing **B.Tech in Computer Science and Engineering (3rd year)**, while working on exciting projects in **MERN, Java, and AI**.  
+I’m learning things, exploring AI & Machine Learning.  
+Currently pursuing **B.Tech in Computer Science and Engineering (3rd year)**, while figuring out what and how of Tech World !!**.  
 
 ---
 
 ## 🚀 About Me
-- 🎓 4th Year CSE Student | Preparing for **GATE 2026**
-- 🧑‍💻 Interested in **Web Development, AI, LLMs, and System Design**
+- 🎓 4th Year CSE Student |
+- 🧑‍💻 Wanted to learn **Web Development & AI**
 
 ---
 
@@ -48,6 +48,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering (3rd year)**, wh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zafaruddin-35236427b/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MdZafar-07)   
+
 
 
 
