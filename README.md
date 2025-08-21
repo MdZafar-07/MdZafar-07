@@ -33,7 +33,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering (4th year)**, wh
 
 - 🔹 [**BotVeda AI**](https://github.com/MdZafar-07/botveda-ai)  
   *Conversational AI assistant for Ayurveda-based queries and remedies.*  
-  `JavaScript` `AI` `Chatbot`
+   `MERN` `JavaScript` `AI` `Chatbot`
 
 - 🔹 [**Portfolio Website**](#) *(add link once deployed)*  
   *My personal developer portfolio showcasing projects and achievements.*  
@@ -48,6 +48,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering (4th year)**, wh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zafaruddin-35236427b/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MdZafar-07)   
+
 
 
 
